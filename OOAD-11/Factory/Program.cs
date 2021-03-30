@@ -11,7 +11,6 @@ namespace Factory
             plane.Fly();
             plane.FireMissile();
             plane.Land();
-            
         }
     }
 }
