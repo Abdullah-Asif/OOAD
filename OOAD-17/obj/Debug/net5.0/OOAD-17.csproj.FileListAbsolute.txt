@@ -1,0 +1,16 @@
+E:\Edge download\SWE\OOAD\OOAD-17\obj\Debug\net5.0\OOAD-17.csprojAssemblyReference.cache
+E:\Edge download\SWE\OOAD\OOAD-17\obj\Debug\net5.0\OOAD-17.GeneratedMSBuildEditorConfig.editorconfig
+E:\Edge download\SWE\OOAD\OOAD-17\obj\Debug\net5.0\OOAD-17.AssemblyInfoInputs.cache
+E:\Edge download\SWE\OOAD\OOAD-17\obj\Debug\net5.0\OOAD-17.AssemblyInfo.cs
+E:\Edge download\SWE\OOAD\OOAD-17\obj\Debug\net5.0\OOAD-17.csproj.CoreCompileInputs.cache
+E:\Edge download\SWE\OOAD\OOAD-17\bin\Debug\net5.0\OOAD-17.exe
+E:\Edge download\SWE\OOAD\OOAD-17\bin\Debug\net5.0\OOAD-17.deps.json
+E:\Edge download\SWE\OOAD\OOAD-17\bin\Debug\net5.0\OOAD-17.runtimeconfig.json
+E:\Edge download\SWE\OOAD\OOAD-17\bin\Debug\net5.0\OOAD-17.runtimeconfig.dev.json
+E:\Edge download\SWE\OOAD\OOAD-17\bin\Debug\net5.0\OOAD-17.dll
+E:\Edge download\SWE\OOAD\OOAD-17\bin\Debug\net5.0\ref\OOAD-17.dll
+E:\Edge download\SWE\OOAD\OOAD-17\bin\Debug\net5.0\OOAD-17.pdb
+E:\Edge download\SWE\OOAD\OOAD-17\obj\Debug\net5.0\OOAD-17.dll
+E:\Edge download\SWE\OOAD\OOAD-17\obj\Debug\net5.0\ref\OOAD-17.dll
+E:\Edge download\SWE\OOAD\OOAD-17\obj\Debug\net5.0\OOAD-17.pdb
+E:\Edge download\SWE\OOAD\OOAD-17\obj\Debug\net5.0\OOAD-17.genruntimeconfig.cache

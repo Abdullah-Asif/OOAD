@@ -1,0 +1,16 @@
+E:\Edge download\SWE\OOAD\OOAD-5\SIngle&Open\obj\Debug\net5.0\SIngle&Open.csprojAssemblyReference.cache
+E:\Edge download\SWE\OOAD\OOAD-5\SIngle&Open\obj\Debug\net5.0\SIngle&Open.GeneratedMSBuildEditorConfig.editorconfig
+E:\Edge download\SWE\OOAD\OOAD-5\SIngle&Open\obj\Debug\net5.0\SIngle&Open.AssemblyInfoInputs.cache
+E:\Edge download\SWE\OOAD\OOAD-5\SIngle&Open\obj\Debug\net5.0\SIngle&Open.AssemblyInfo.cs
+E:\Edge download\SWE\OOAD\OOAD-5\SIngle&Open\obj\Debug\net5.0\SIngle&Open.csproj.CoreCompileInputs.cache
+E:\Edge download\SWE\OOAD\OOAD-5\SIngle&Open\bin\Debug\net5.0\SIngle&Open.exe
+E:\Edge download\SWE\OOAD\OOAD-5\SIngle&Open\bin\Debug\net5.0\SIngle&Open.deps.json
+E:\Edge download\SWE\OOAD\OOAD-5\SIngle&Open\bin\Debug\net5.0\SIngle&Open.runtimeconfig.json
+E:\Edge download\SWE\OOAD\OOAD-5\SIngle&Open\bin\Debug\net5.0\SIngle&Open.runtimeconfig.dev.json
+E:\Edge download\SWE\OOAD\OOAD-5\SIngle&Open\bin\Debug\net5.0\SIngle&Open.dll
+E:\Edge download\SWE\OOAD\OOAD-5\SIngle&Open\bin\Debug\net5.0\ref\SIngle&Open.dll
+E:\Edge download\SWE\OOAD\OOAD-5\SIngle&Open\bin\Debug\net5.0\SIngle&Open.pdb
+E:\Edge download\SWE\OOAD\OOAD-5\SIngle&Open\obj\Debug\net5.0\SIngle&Open.dll
+E:\Edge download\SWE\OOAD\OOAD-5\SIngle&Open\obj\Debug\net5.0\ref\SIngle&Open.dll
+E:\Edge download\SWE\OOAD\OOAD-5\SIngle&Open\obj\Debug\net5.0\SIngle&Open.pdb
+E:\Edge download\SWE\OOAD\OOAD-5\SIngle&Open\obj\Debug\net5.0\SIngle&Open.genruntimeconfig.cache
